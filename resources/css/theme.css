@@ -1,0 +1,8 @@
+
+table {
+    word-break: break-word;
+}
+.documentation > ul:first-of-type {
+    overflow: scroll;
+    height: 100%;
+}
